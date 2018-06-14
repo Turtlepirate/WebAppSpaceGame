@@ -1,0 +1,11 @@
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\bin\Debug\netcoreapp2.0\WebAppSpaceGame.deps.json
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\bin\Debug\netcoreapp2.0\WebAppSpaceGame.runtimeconfig.json
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\bin\Debug\netcoreapp2.0\WebAppSpaceGame.runtimeconfig.dev.json
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\bin\Debug\netcoreapp2.0\WebAppSpaceGame.dll
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\bin\Debug\netcoreapp2.0\WebAppSpaceGame.pdb
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.AssemblyInfoInputs.cache
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.AssemblyInfo.cs
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.dll
+C:\Users\Teis\source\repos\WebAppSpaceGame\WebAppSpaceGame\obj\Debug\netcoreapp2.0\WebAppSpaceGame.pdb
